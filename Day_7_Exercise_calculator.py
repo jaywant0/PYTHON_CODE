@@ -1,0 +1,15 @@
+# operators in python
+
+print(5+6)    #ADDITION
+
+print(15-6)   #SUBSTRACTION
+
+print(15*6)    #MULTIPLICATION
+
+print(15/6)    #DIVISION
+
+print(15//6)   #FLOW DIVISION  OPEARATOR
+
+print(5%3)     #MODULA OPERATOR GIVE REMINDER OF ANY DIVISION
+
+print(2**3)    #EXPONETIAL OPERATOR
